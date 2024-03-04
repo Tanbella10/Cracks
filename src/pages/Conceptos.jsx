@@ -7,7 +7,7 @@ function Conceptos() {
         <Header/>
         <div className="container">
             <div className="row text-center">
-                <h1 className="display-3 fw-bold text-uppercase">Short concepts</h1>
+                <h1 className="display-8 fw-bold text-uppercase">Short concepts</h1>
                 <div className="heading-line"></div>
                 <p className="position-relative d-inline text-primary ps-4">Crack! En este espacio encontrarás cortas definiciones que necesitas antes de adentrarte en la lectura normativa.</p>
             </div>

@@ -10,11 +10,11 @@ import Header from '../componets/header/Header';
 function NormaPage() {
     const [normas, setNormas] = useState([]);
 
-    
+    const url = "http://3.88.1.19:8000";
 
     useEffect(() => {
         async function fetchNorma() {
-            const res = await axios.get('http://127.0.0.1:8000/normas');
+            const res = await axios.get(url+'/normas');
             setNormas(res.data)
             console.log(res)
         }
