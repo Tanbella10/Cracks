@@ -4,5 +4,9 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-/*   base: "https://Tanbella10.github.io/Cracks" */
+  server:{
+    host:true,
+    port:4300
+  }
+
 })
