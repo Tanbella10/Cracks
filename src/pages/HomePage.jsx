@@ -19,7 +19,7 @@ function HomePage(){
                         <div className="col-lg-6 text-center text-lg-start">
                             <h1 className="text-white mb-4 animated zoomIn">“Todas las fronteras son convenciones que esperan ser superadas.”</h1>
                             <p className="text-white pb-3 animated zoomIn">La Presente Página, es una herramienta de consulta normativa por y para estudiantes de ingeniería catastral y Geodesia.</p>
-                            <a href="/Nosotras" className="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Empezar</a>
+                            <a href="/normas" className="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Empezar</a>
                         </div>
                         <div className="col-lg-6 text-center text-lg-start">
                             <img className='img-fluid' src={about} alt="" />
