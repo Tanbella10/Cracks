@@ -15,7 +15,7 @@ const Header = () => {
                 <div className="navbar-nav ms-auto py-0">
                     <a href="/" className="nav-item nav-link active">Inicio</a>
                     <a href="/Concetos" className="nav-item nav-link">Short Concepto</a>
-                    <a href="/normas" className="nav-item nav-link">Normavita</a>
+                    <a href="/normas" className="nav-item nav-link">Normativa</a>
                     <div className="nav-item dropdown">
                         <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div className="dropdown-menu m-0">
