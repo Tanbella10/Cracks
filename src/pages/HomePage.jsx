@@ -18,7 +18,7 @@ function HomePage(){
                     <div className="row g-5 py-5">
                         <div className="col-lg-6 text-center text-lg-start">
                             <h1 className="text-white mb-4 animated zoomIn">“Todas las fronteras son convenciones que esperan ser superadas.”</h1>
-                            <p className="text-white pb-3 animated zoomIn">La Presente Página, es una herramienta de consulta normativa por y para estudiantes de ingeniería catastral y Geodesia.</p>
+                            <p className="text-white pb-3 animated zoomIn">La presente página, es una herramienta de consulta normativa por y para estudiantes de Ingeniería Catastral y Geodesia.</p>
                             <a href="/normas" className="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Empezar</a>
                         </div>
                         <div className="col-lg-6 text-center text-lg-start">
