@@ -20,7 +20,7 @@ function ObjetivoPage() {
                 <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div className="section-title position-relative mb-4 pb-2">
                         <h6 className="position-relative text-primary ps-4">...</h6>
-                        <h2 className="mt-2">Nuetro Objetivo</h2>
+                        <h2 className="mt-2">Nuestro Objetivo</h2>
                     </div>
                         <p className="lh-lg">Conceptualizar, diseñar e implementar una plataforma web para el registro, administración y consulta de
 normativas relacionadas con la Ingeniería Catastral Y Geodesia.</p>
